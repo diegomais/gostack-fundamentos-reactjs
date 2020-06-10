@@ -7,18 +7,21 @@
 <p align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
+  <img alt="Travis build" src="https://img.shields.io/travis/com/diegomais/gostack-fundamentos-reactjs?color=04D361">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-fundamentos-reactjs?color=%2304D361">
+  
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/diegomais/gostack-fundamentos-reactjs?color=04D361">
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://diegomais.github.io">
     <img alt="Made by Diego Mais" src="https://img.shields.io/badge/made%20by-Diego%20Mais-%2304D361">
   </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -124,10 +127,6 @@ Para esse desafio, temos os seguintes testes:
 - **`should be able to upload a file`**: Para que esse teste passe, você deve permitir que um arquivo seja enviado através do componente de drag-n-drop na página de `import`, e que seja possível exibir o nome do arquivo enviado para o input.
 
 **Dica**: Deixamos disponível um componente chamado `FileList` na pasta `components` para ajudar você a listar os arquivos que enviar pelo componente de `Upload`, ele deve exibir o título do arquivo e o tamanho dele.
-
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
 
 ## :memo: Licença
 
