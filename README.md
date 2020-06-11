@@ -8,9 +8,11 @@
 
 <p align="center">
   <img alt="Travis build" src="https://img.shields.io/travis/com/diegomais/gostack-fundamentos-reactjs?color=04D361">
-  
+
+  <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/afaf93a2c2674445bbd718b44f15d3b0?color=04D361">
+
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/diegomais/gostack-fundamentos-reactjs?color=%2304D361">
-  
+
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/diegomais/gostack-fundamentos-reactjs?color=04D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
